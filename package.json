@@ -4,6 +4,7 @@
   "description": "OTUS Three column layout",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "format": "prettier --write .",
     "lint": "prettier --check . && eslint .",
     "lint:fix": "prettier --write . && eslint . --fix",
